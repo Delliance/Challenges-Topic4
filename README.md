@@ -6,12 +6,12 @@ Docker repository: https://hub.docker.com/repository/docker/danielgn/testing_doc
 
 **1.** Download and open the file
 **2.** Run docker compose in the terminal
-> docker-compose up
+-docker-compose up
 **3.** open adminer in port 8080
-> http://localhost:8080/
+-http://localhost:8080/
 **4.** enter with the following user:
-> user: root
-> password: example
+-user: root
+-password: example
 **5.** Create or open a database
 **6.** Create a table or run a .sql
 **7.** You're done
