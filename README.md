@@ -2,7 +2,7 @@
 
 Docker repository: https://hub.docker.com/repository/docker/danielgn/testing_docker
 
-##### Steps:
+##### Steps for the zip:
 
 **1.** Download and open the file
 
